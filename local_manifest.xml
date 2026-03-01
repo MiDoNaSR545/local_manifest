@@ -5,6 +5,7 @@
     <remote name="lab" fetch="https://gitlab.com" />
 
     <!-- override Lunaris build/soong -->
+    <remove-project path="build/soong" />
     <project
         path="build/soong"
         name="MiDoNaSR545/build_soong"
