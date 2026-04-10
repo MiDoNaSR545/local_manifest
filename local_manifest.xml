@@ -12,5 +12,4 @@
     <project path="vendor/xiaomi/sm6150-common" name="MiDoNaSR545/proprietary_vendor_xiaomi_sm6150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
     <project path="kernel/xiaomi/sm6150" name="MiDoNaSR545/android_kernel_xiaomi_sm6150" remote="rem" revision="16.0-ksun-test" clone-depth="1" />
     <project path="vendor/xiaomi/sweet2-miuicamera" name="MiDoNaSR545/sweet2-miuicamera" remote="rem" revision="main" clone-depth="1" />
-    <project path="packages/apps/AxThemeStore" name="Lunaris-AOSP/packages_apps_AxThemeStore" remote="rem" revision="16.2" />
 </manifest>
